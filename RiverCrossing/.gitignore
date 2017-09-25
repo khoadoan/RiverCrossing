@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Binaries
 *.7z
 *.dmg
@@ -37,3 +38,12 @@ nb-configuration.xml
 
 # OS
 .DS_Store
+/bin/
+=======
+~*
+._*
+.TemporaryItems
+.DS_Store
+Thumbs.db
+>>>>>>> branch 'master' of https://web-cat.cs.vt.edu/Web-CAT/WebObjects/Web-CAT.woa/git/StudentProject/00b59c2e-a772-4d06-ab57-329d715d51a3
+/bin/
